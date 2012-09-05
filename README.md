@@ -1,4 +1,0 @@
-WebPresence-Backup
-==================
-
-WebPresence Backup
